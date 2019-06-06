@@ -1,0 +1,4 @@
+#Thu Jun 06 13:47:20 PDT 2019
+base.0=/Users/doris/AndroidStudioProjects/AndroidAssignments/TwoActivities/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
